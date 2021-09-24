@@ -4,4 +4,4 @@ FLASK_ENV=development
 
 #Ésto: FLASK_DEBUG=1 abarca sólo el modo Debug, sin "Environment: development"
 
-FLASK_RUN_PORT=80
+FLASK_RUN_PORT=3333
